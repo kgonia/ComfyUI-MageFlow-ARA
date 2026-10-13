@@ -20,7 +20,7 @@ The rank is read separately for each layer from its `lora_down` shape and scaled
 
 ## Install
 
-ComfyUI Manager: search for `ComfyUI-MageFlow-ARA`. Or by hand:
+Clone it into ComfyUI's `custom_nodes` folder and restart ComfyUI:
 
 ```
 cd ComfyUI/custom_nodes

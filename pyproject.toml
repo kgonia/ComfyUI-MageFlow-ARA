@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-mageflow-ara"
+description = "Load a Mage-Flow accuracy recovery adapter (ARA) as a runtime residual next to quantized weights, instead of merging and requantizing it."
+version = "1.0.0"
+license = { text = "MIT" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/kgonia/ComfyUI-MageFlow-ARA"
+
+[tool.comfy]
+PublisherId = "kgonia"
+DisplayName = "Mage-Flow ARA"
+Icon = ""
